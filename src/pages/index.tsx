@@ -1,3 +1,3 @@
 export default function PlaneTracker() {
-  return <h1>PlaneTracker</h1>;
+  return <h1 data-testid="title">PlaneTracker</h1>;
 }
