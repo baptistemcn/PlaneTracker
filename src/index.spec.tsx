@@ -1,5 +1,5 @@
 import { render } from "@testing-library/react";
-import PlaneTracker from ".";
+import PlaneTracker from "./pages";
 
 describe("index page", () => {
   it("should render", () => {
