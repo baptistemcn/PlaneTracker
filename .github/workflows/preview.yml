@@ -7,10 +7,10 @@ env:
 on:
   push:
     branches:
-      - staging
+      - preview
   pull_request:
     branches:
-      - staging
+      - preview
 
 jobs:
   build:
